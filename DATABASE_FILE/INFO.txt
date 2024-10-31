@@ -1,0 +1,17 @@
+/*!
+ *  Author Name: KHADIJA NACER.
+ *  GitHub Link: https://github.com/Khadijanacer1
+
+      */
+      
+**Log on to https://github.com/Khadijanacer1 for more projects!***
+
+**Developed by KHADIJA NACER**
+
+**Recommended PHP Version 5.6, 7.4**
+
+
+**Admin Login Details**
+
+Username: admin
+Password: 0000
